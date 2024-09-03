@@ -1,0 +1,14 @@
+//   <div className='boris'>
+  //     <h1> Niveau {level}</h1>
+  //   <Button text = "Incrementer" onClick = {() => {
+  //     setLevel((level) => {
+  //       return level >= 10 ? level : level + 1
+  //     })
+  //   }} />
+  //   <Button text = "Décrémenter"
+  //   onClick = {() => {
+  //     setLevel((level) => {
+  //       return level <= 0 ? level : level - 1
+  //     })
+  //   }} />
+    // </div>
